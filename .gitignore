@@ -1,0 +1,7 @@
+.idea/
+.afhq/
+.afhq_lmdb/
+.git/
+
+*.jpg
+*.mdb
